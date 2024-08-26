@@ -10,9 +10,6 @@ Data Analyst
 
 ### Links:
 
+- [Google Data Analytics Castone: Cyclistic Case Study](https://github.com/S-a-m-K/cyclistic_case_study)
 - [Google Data Analytics Capstone: Bellabeat Case Study](https://github.com/S-a-m-K/bellabeat_case_study)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Data Visualizations](https://public.tableau.com/app/profile/samuel.kleger/vizzes)
