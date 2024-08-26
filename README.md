@@ -10,7 +10,7 @@ Data Analyst
 
 ### Links:
 
-- [Google Data Analytics Capstone: Bellabeat Case Study]()
+- [Google Data Analytics Capstone: Bellabeat Case Study](https://github.com/S-a-m-K/bellabeat_case_study)
 - []()
 - []()
 - []()
