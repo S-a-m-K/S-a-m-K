@@ -1,5 +1,8 @@
 ![Banner](https://kaplan.co.uk/images/default-source/insights-posts/magnifying-glass-data.jpg?sfvrsn=215d7f02_1)
 
+![Mein Hintergrundbild](https://kaplan.co.uk/images/default-source/insights-posts/magnifying-glass-data.jpg?sfvrsn=215d7f02_1)
+
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=S-a-m-k.S-a-m-k" />
 
 <h1 align="left">
