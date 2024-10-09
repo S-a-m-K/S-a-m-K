@@ -8,7 +8,7 @@
 🤚🏼🤚🏼
 - Certified Data Analyst / Google Data Analytics
 - Languages/Tools: SQL, R, Tabelau, Excel, Google Sheets
-- Sport, Cooking, Music
+- 🏋🏻 Sport, 👨🏻‍🍳 Cooking, 🎶 Music
 
 ### Links:
 
