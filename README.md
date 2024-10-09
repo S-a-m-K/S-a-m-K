@@ -1,3 +1,5 @@
+![Banner](https://link-zum-bannerbild.com/banner.png)
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=S-a-m-k.S-a-m-k" />
 
 <h1 align="left">
