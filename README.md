@@ -4,10 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏼🧑🏻‍💻;+I'm+Sam!;+I'm+a+Data+Analyst!;&color=66cdaa";" />
 </h1>
 
-## Sam
-
-Data Analyst
-
 ### About me
 🤚🏼🤚🏼
 - Certified Data Analyst / Google Data Analytics
