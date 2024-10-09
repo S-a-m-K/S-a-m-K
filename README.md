@@ -9,8 +9,8 @@
 ### About me
 
 - 📊 Certified Data Analyst / Google Data Analytics
-- 🛠️ Languages/Tools: SQL, R, Tabelau, Excel, Google Sheets
-- 🏋🏻 Sport, 👨🏻‍🍳 Cooking, 🎶 Music
+- 📚 Languages/Tools: SQL, R, Tabelau, Excel, Google Sheets
+- 🏋🏻 Sport, 👨🏻‍🍳 Cooking, 🎧 Music
 
 ### Links:
 
