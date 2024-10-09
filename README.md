@@ -1,5 +1,5 @@
 <div style="text-align: left;">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sam!+color=66cdaa" style="display: block; margin: 0;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sam!;+color=66cdaa" style="display: block; margin: 0;" />
 </div>
 
 
