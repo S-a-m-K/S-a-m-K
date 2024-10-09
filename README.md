@@ -27,7 +27,7 @@
   </a>
   <a href="www.linkedin.com/in/samuel-kleger-7456a1276" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> <br><br>
+  </a> <br><br><br/><br/>
 
 </div>
 
