@@ -17,7 +17,7 @@
 - [Heart Disease Prediction](https://github.com/S-a-m-K/heart_disease_prediction)
 - [Data Visualizations](https://public.tableau.com/app/profile/samuel.kleger/vizzes)
 
-<a href="https://github.com/S-a-m-K/cyclistic_case_study" style="color: #66cdaa;">Google Data Analytics Capstone: Cyclistic Case Study</a>
+<a href="https://github.com/S-a-m-K/cyclistic_case_study" style="color: black;">Google Data Analytics Capstone: Cyclistic Case Study</a>
 
 
 <a href="https://github.com/S-a-m-K/cyclistic_case_study" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
