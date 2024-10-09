@@ -1,8 +1,7 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=S-a-m-k.S-a-m-k" />
+<div style="text-align: left;">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sam!" style="display: block; margin: 0;" />
+</div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&vCenter=true&width=300&height=70&duration=4000&lines=Hi+There!+👋🏼🧑🏻‍💻;+I'm+Sam!;+I'm+a+Data+Analyst!;&color=66cdaa";" />
-</h1>
 
 ### About me
 🤚🏼🤚🏼
