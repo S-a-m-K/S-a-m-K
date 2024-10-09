@@ -5,9 +5,9 @@
 </h1>
 
 ### About me
-🤚🏼🤚🏼
-- Certified Data Analyst / Google Data Analytics
-- Languages/Tools: SQL, R, Tabelau, Excel, Google Sheets
+
+- 📊 Certified Data Analyst / Google Data Analytics
+- 🛠️ Languages/Tools: SQL, R, Tabelau, Excel, Google Sheets
 - 🏋🏻 Sport, 👨🏻‍🍳 Cooking, 🎶 Music
 
 ### Links:
