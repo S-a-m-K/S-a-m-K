@@ -18,3 +18,5 @@
 - [Data Visualizations](https://public.tableau.com/app/profile/samuel.kleger/vizzes)
 
 <a href="https://github.com/S-a-m-K/cyclistic_case_study" style="color: #66cdaa;">Google Data Analytics Capstone: Cyclistic Case Study</a>
+
+<span style="color: #66cdaa;">Google Data Analytics Capstone: Cyclistic Case Study</span>
