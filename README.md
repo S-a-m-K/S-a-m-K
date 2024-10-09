@@ -8,34 +8,21 @@
 
 ### About me
 
-- 📊 Certified Data Analyst / Google Data Analytics
+- 👨🏻‍🎓 Certified Data Analyst / Google Data Analytics
 - 📚 Languages/Tools: SQL, R, Tabelau, Excel, Google Sheets
 - 🏋🏻 Sport, 👨🏻‍🍳 Cooking, 🎧 Music
 
 ### Links:
 
-- [Google Data Analytics Capstone: Cyclistic Case Study](https://github.com/S-a-m-K/cyclistic_case_study)
-- [Google Data Analytics Capstone: Bellabeat Case Study](https://github.com/S-a-m-K/bellabeat_case_study)
-- [Heart Disease Prediction](https://github.com/S-a-m-K/heart_disease_prediction)
-- [Data Visualizations](https://public.tableau.com/app/profile/samuel.kleger/vizzes) <br><br><br>
+- 🚴🏼 [Google Data Analytics Capstone: Cyclistic Case Study](https://github.com/S-a-m-K/cyclistic_case_study)
+- ⏱️ [Google Data Analytics Capstone: Bellabeat Case Study](https://github.com/S-a-m-K/bellabeat_case_study)
+- 🫀 [Heart Disease Prediction](https://github.com/S-a-m-K/heart_disease_prediction)
+- 📊 [Data Visualizations](https://public.tableau.com/app/profile/samuel.kleger/vizzes) <br><br><br>
 
 
-
-
- 
-<div align="left"> 
-  <a href="mailto:s.kleger01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-kleger-7456a1276/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-
-<br/>
-<hr/>
 
 <div align="left">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>📉 My Contributions 📈</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
