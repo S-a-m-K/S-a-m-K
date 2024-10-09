@@ -18,3 +18,13 @@
 - [Google Data Analytics Capstone: Bellabeat Case Study](https://github.com/S-a-m-K/bellabeat_case_study)
 - [Heart Disease Prediction](https://github.com/S-a-m-K/heart_disease_prediction)
 - [Data Visualizations](https://public.tableau.com/app/profile/samuel.kleger/vizzes)
+
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:s.kleger01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-kleger-7456a1276/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
