@@ -1,4 +1,4 @@
-![Banner](https://docs.google.com/document/d/1vhMwJos9YQF622PSZjfFrUFMrbtTU8yoGSpDh6O4ZS0/edit?usp=sharing)
+
 
 <a href="https://ibb.co/pQKtS65"><img src="https://i.ibb.co/Jqpf9Wg/linkedin-background-2.jpg" alt="linkedin-background-2" border="0"></a>
 
