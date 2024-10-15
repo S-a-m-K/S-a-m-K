@@ -1,4 +1,4 @@
-
+![Banner](https://github.com/S-a-m-K/S-a-m-K/blob/main/github%20background.png)
 
 <a href="https://ibb.co/pQKtS65"><img src="https://i.ibb.co/Jqpf9Wg/linkedin-background-2.jpg" alt="linkedin-background-2" border="0"></a>
 
