@@ -1,4 +1,4 @@
-
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=S-a-m-k.S-a-m-k" />
 
 <a href="https://ibb.co/pQKtS65"><img src="https://i.ibb.co/Jqpf9Wg/linkedin-background-2.jpg" alt="linkedin-background-2" border="0"></a>
 
