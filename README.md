@@ -9,6 +9,7 @@
 
 - 👨🏻‍🎓 Certified Data Analyst / Google Data Analytics
 - 📚 Languages/Tools: SQL, R, Tabelau, Excel, Google Sheets
+- 📖 I'm currently learning: NoSQL Databases
 - 🏋🏻 Sport, 👨🏻‍🍳 Cooking, 🎧 Music
 
 ### Projects:
