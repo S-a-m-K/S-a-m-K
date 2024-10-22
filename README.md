@@ -16,7 +16,7 @@
 
 - 🚴🏼 [Google Data Analytics Capstone: Cyclistic Case Study](https://github.com/S-a-m-K/cyclistic_case_study)
 - ⏱️ [Google Data Analytics Capstone: Bellabeat Case Study](https://github.com/S-a-m-K/bellabeat_case_study)
-- 🫀 [Heart Disease Prediction](https://github.com/S-a-m-K/heart_disease_prediction)
+- 🫀 [Heart Disease Prediction Data Set](https://github.com/S-a-m-K/heart_disease_prediction)
 - 📊 [Data Visualizations](https://public.tableau.com/app/profile/samuel.kleger/vizzes) <br><br><br>
 
 </div>
